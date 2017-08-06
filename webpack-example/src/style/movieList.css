@@ -1,0 +1,18 @@
+.movielist-container {
+	height: 100%;
+	overflow-y: scroll;
+}
+.movie-item {
+	margin-top: .5rem;
+	display: flex;
+}
+
+.show-load {
+	display: block;
+	text-align: center;
+	background-color: #f69d07;
+}
+
+.hide-load {
+	display: none;
+}

@@ -1,0 +1,58 @@
+.movie-container {
+	height: 100%;
+	display: flex;
+}
+
+.movie-menu {
+	height: 100%;
+	width: 8rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #3ae713;
+}
+
+.movie-menu > a {
+	margin-top: 10px;
+	color: #fff;
+	line-height: 1.5rem;
+	text-decoration: none;
+}
+
+.movie-menu > .current {
+	color: #af2e2e;
+	font-weight: 700;
+}
+
+.movie-right {
+	flex: 1;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.movie-search {
+	height: 8%;
+	display: flex;
+	background-color: #f68418;
+	justify-content: center;
+	align-items: center;
+}
+
+.movie-search > input[type="text"] {
+	width: 86%;
+	height: 28px;
+	padding-left: 5px;
+	border: 1px solid #ccc;
+	border-radius: 10px 0 0 10px;
+}
+
+.movie-search > input[type="button"] {
+	height: 30px;
+	padding: 0 5px;
+	border: 1px solid #ccc;
+}
+
+.movie-content {
+	height: 92%;
+}

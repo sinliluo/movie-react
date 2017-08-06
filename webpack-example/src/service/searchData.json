@@ -1,0 +1,621 @@
+{
+    "count": 10,
+    "start": 0,
+    "total": 36,
+    "subjects": [
+        {
+            "rating": {
+                "max": 10,
+                "average": 7.6,
+                "stars": "40",
+                "min": 0
+            },
+            "genres": [
+                "动作"
+            ],
+            "title": "战狼2",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1000525/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39105.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39105.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39105.jpg"
+                    },
+                    "name": "吴京",
+                    "id": "1000525"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1100321/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1415801312.29.jpg",
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1415801312.29.jpg",
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1415801312.29.jpg"
+                    },
+                    "name": "弗兰克·格里罗",
+                    "id": "1100321"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1274840/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1401440361.14.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1401440361.14.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1401440361.14.jpg"
+                    },
+                    "name": "吴刚",
+                    "id": "1274840"
+                }
+            ],
+            "collect_count": 210186,
+            "original_title": "战狼2",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1000525/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39105.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39105.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39105.jpg"
+                    },
+                    "name": "吴京",
+                    "id": "1000525"
+                }
+            ],
+            "year": "2017",
+            "images": {
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2485983612.webp",
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2485983612.webp",
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2485983612.webp"
+            },
+            "alt": "https://movie.douban.com/subject/26363254/",
+            "id": "26363254"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 6.8,
+                "stars": "35",
+                "min": 0
+            },
+            "genres": [
+                "动作",
+                "战争"
+            ],
+            "title": "战狼",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1000525/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39105.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39105.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39105.jpg"
+                    },
+                    "name": "吴京",
+                    "id": "1000525"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1050430/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/52860.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/52860.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/52860.jpg"
+                    },
+                    "name": "余男",
+                    "id": "1050430"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1017912/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1390933039.93.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1390933039.93.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1390933039.93.jpg"
+                    },
+                    "name": "斯科特·阿金斯",
+                    "id": "1017912"
+                }
+            ],
+            "collect_count": 120909,
+            "original_title": "战狼",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1000525/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39105.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39105.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39105.jpg"
+                    },
+                    "name": "吴京",
+                    "id": "1000525"
+                }
+            ],
+            "year": "2015",
+            "images": {
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2225660666.webp",
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2225660666.webp",
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2225660666.webp"
+            },
+            "alt": "https://movie.douban.com/subject/24753810/",
+            "id": "24753810"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 6.6,
+                "stars": "35",
+                "min": 0
+            },
+            "genres": [
+                "动画",
+                "动作",
+                "冒险"
+            ],
+            "title": "贝奥武夫",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1006977/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1256.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1256.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1256.jpg"
+                    },
+                    "name": "雷·温斯顿",
+                    "id": "1006977"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1002666/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2609.jpg",
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2609.jpg",
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2609.jpg"
+                    },
+                    "name": "克里斯平·格洛弗",
+                    "id": "1002666"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1054447/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1592.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1592.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1592.jpg"
+                    },
+                    "name": "安吉丽娜·朱莉",
+                    "id": "1054447"
+                }
+            ],
+            "collect_count": 28307,
+            "original_title": "Beowulf",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1053564/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/505.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/505.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/505.jpg"
+                    },
+                    "name": "罗伯特·泽米吉斯",
+                    "id": "1053564"
+                }
+            ],
+            "year": "2007",
+            "images": {
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2165572589.webp",
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2165572589.webp",
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2165572589.webp"
+            },
+            "alt": "https://movie.douban.com/subject/1792917/",
+            "id": "1792917"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "stars": "00",
+                "min": 0
+            },
+            "genres": [],
+            "title": "战狼3",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1000525/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39105.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39105.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39105.jpg"
+                    },
+                    "name": "吴京",
+                    "id": "1000525"
+                }
+            ],
+            "collect_count": 48,
+            "original_title": "战狼3",
+            "subtype": "movie",
+            "directors": [],
+            "year": "2018",
+            "images": {
+                "small": "https://img1.doubanio.com/f/movie/b6dc761f5e4cf04032faa969826986efbecd54bb/pics/movie/movie_default_small.png",
+                "large": "https://img3.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+                "medium": "https://img1.doubanio.com/f/movie/5081e011b4b06f1a8c3735122b38e781bd852ab6/pics/movie/movie_default_medium.png"
+            },
+            "alt": "https://movie.douban.com/subject/26665255/",
+            "id": "26665255"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 7.6,
+                "stars": "40",
+                "min": 0
+            },
+            "genres": [
+                "动作",
+                "历史",
+                "战争"
+            ],
+            "title": "斯巴达300勇士",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1040500/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4940.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4940.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4940.jpg"
+                    },
+                    "name": "杰拉德·巴特勒",
+                    "id": "1040500"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1045012/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14272.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14272.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14272.jpg"
+                    },
+                    "name": "文森特·里根",
+                    "id": "1045012"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1053571/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32547.jpg",
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32547.jpg",
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32547.jpg"
+                    },
+                    "name": "琳娜·海蒂",
+                    "id": "1053571"
+                }
+            ],
+            "collect_count": 111641,
+            "original_title": "300",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1031904/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23346.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23346.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23346.jpg"
+                    },
+                    "name": "扎克·施奈德",
+                    "id": "1031904"
+                }
+            ],
+            "year": "2006",
+            "images": {
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p443321967.webp",
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p443321967.webp",
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p443321967.webp"
+            },
+            "alt": "https://movie.douban.com/subject/1853176/",
+            "id": "1853176"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 6.1,
+                "stars": "30",
+                "min": 0
+            },
+            "genres": [
+                "剧情",
+                "动作",
+                "历史"
+            ],
+            "title": "300勇士：帝国崛起",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1314108/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1395813809.74.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1395813809.74.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1395813809.74.jpg"
+                    },
+                    "name": "沙利文·斯特普尔顿",
+                    "id": "1314108"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1022622/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1382882466.42.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1382882466.42.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1382882466.42.jpg"
+                    },
+                    "name": "罗德里戈·桑托罗",
+                    "id": "1022622"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1025155/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36438.jpg",
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36438.jpg",
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36438.jpg"
+                    },
+                    "name": "伊娃·格林",
+                    "id": "1025155"
+                }
+            ],
+            "collect_count": 30786,
+            "original_title": "300: Rise of an Empire",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1023331/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390369293.67.jpg",
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390369293.67.jpg",
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390369293.67.jpg"
+                    },
+                    "name": "诺姆·穆罗",
+                    "id": "1023331"
+                }
+            ],
+            "year": "2014",
+            "images": {
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2001509087.webp",
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2001509087.webp",
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2001509087.webp"
+            },
+            "alt": "https://movie.douban.com/subject/3148089/",
+            "id": "3148089"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 4.6,
+                "stars": "25",
+                "min": 0
+            },
+            "genres": [
+                "恐怖",
+                "动作",
+                "科幻"
+            ],
+            "title": "战狼",
+            "casts": [],
+            "collect_count": 292,
+            "original_title": "Beowulf",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": null,
+                    "avatars": null,
+                    "name": "Graham Baker (I)",
+                    "id": null
+                }
+            ],
+            "year": "1999",
+            "images": {
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2329251849.webp",
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2329251849.webp",
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2329251849.webp"
+            },
+            "alt": "https://movie.douban.com/subject/1294816/",
+            "id": "1294816"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 3.8,
+                "stars": "20",
+                "min": 0
+            },
+            "genres": [
+                "战争"
+            ],
+            "title": "向着胜利前进",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1042466/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34964.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34964.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34964.jpg"
+                    },
+                    "name": "吴奇隆",
+                    "id": "1042466"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1313247/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1411384788.75.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1411384788.75.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1411384788.75.jpg"
+                    },
+                    "name": "甘婷婷",
+                    "id": "1313247"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1314488/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1380013698.56.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1380013698.56.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1380013698.56.jpg"
+                    },
+                    "name": "谢孟伟",
+                    "id": "1314488"
+                }
+            ],
+            "collect_count": 385,
+            "original_title": "向着胜利前进",
+            "subtype": "tv",
+            "directors": [
+                {
+                    "alt": null,
+                    "avatars": null,
+                    "name": "林建中",
+                    "id": null
+                }
+            ],
+            "year": "2013",
+            "images": {
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2141089670.webp",
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2141089670.webp",
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2141089670.webp"
+            },
+            "alt": "https://movie.douban.com/subject/11625180/",
+            "id": "11625180"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 6.6,
+                "stars": "35",
+                "min": 0
+            },
+            "genres": [
+                "动作",
+                "冒险",
+                "剧情"
+            ],
+            "title": "战争猛犬",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1053574/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375077890.89.jpg",
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375077890.89.jpg",
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375077890.89.jpg"
+                    },
+                    "name": "克里斯托弗·沃肯",
+                    "id": "1053574"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1019024/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11836.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11836.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11836.jpg"
+                    },
+                    "name": "汤姆·贝伦杰",
+                    "id": "1019024"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1014092/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5262.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5262.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5262.jpg"
+                    },
+                    "name": "保罗·弗里曼",
+                    "id": "1014092"
+                }
+            ],
+            "collect_count": 100,
+            "original_title": "The Dogs of War",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1045256/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1386635031.52.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1386635031.52.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1386635031.52.jpg"
+                    },
+                    "name": "约翰·伊文",
+                    "id": "1045256"
+                }
+            ],
+            "year": "1980",
+            "images": {
+                "small": "https://img3.doubanio.com/spic/s1504411.jpg",
+                "large": "https://img3.doubanio.com/lpic/s1504411.jpg",
+                "medium": "https://img3.doubanio.com/mpic/s1504411.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/1301762/",
+            "id": "1301762"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 7.3,
+                "stars": "40",
+                "min": 0
+            },
+            "genres": [],
+            "title": "战狼",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1312979/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14640.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14640.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14640.jpg"
+                    },
+                    "name": "连奕名",
+                    "id": "1312979"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1314827/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1445948736.67.jpg",
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1445948736.67.jpg",
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1445948736.67.jpg"
+                    },
+                    "name": "王千源",
+                    "id": "1314827"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1313462/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18285.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18285.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18285.jpg"
+                    },
+                    "name": "何政军",
+                    "id": "1313462"
+                }
+            ],
+            "collect_count": 108,
+            "original_title": "战狼",
+            "subtype": "tv",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1312979/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14640.jpg",
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14640.jpg",
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14640.jpg"
+                    },
+                    "name": "连奕名",
+                    "id": "1312979"
+                },
+                {
+                    "alt": null,
+                    "avatars": null,
+                    "name": "吴斌",
+                    "id": null
+                }
+            ],
+            "year": "2011",
+            "images": {
+                "small": "https://img3.doubanio.com/spic/s6997572.jpg",
+                "large": "https://img3.doubanio.com/lpic/s6997572.jpg",
+                "medium": "https://img3.doubanio.com/mpic/s6997572.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/6982561/",
+            "id": "6982561"
+        }
+    ],
+    "title": "搜索 \"战狼\" 的结果"
+}

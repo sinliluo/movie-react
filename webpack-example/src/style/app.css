@@ -1,0 +1,26 @@
+.app-container {
+	height: 100%;
+}
+
+.app-header {
+	height: 8%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #0df5e9;
+}
+.app-header > a{
+	color: #fff;
+	text-decoration: none;
+}
+.app-content {
+	height: 84%;
+}
+
+.app-footer {
+	height: 8%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #d2f317;
+}

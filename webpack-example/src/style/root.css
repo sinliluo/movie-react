@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+/* cssformat */
+
+html, body, input, button, h3, p {
+	margin: 0;
+	padding: 0;
+}
+
+input {
+	border: 0;
+	outline: 0;
+}
+
+/* 第一层容器控制 */
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#app{
+    height: 100%;
+}
+
+#app > :nth-child(1){
+    height: 100%;
+}
+
+html {
+	min-width: 380px;
+}
+
+
+@media screen and (max-width: 768px) {
+	body {
+		font-family: 'Microsoft Yahei' !important;
+		font-size: 16px !important;
+	}
+}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+	body {
+		font-family: 'Microsoft Yahei' !important;
+		font-size: 18px !important;
+	}
+}
+
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+	body {
+		font-family: '宋体' !important;
+		font-size: 20px !important;
+	}
+}
+
+
+@media screen and (min-width: 1201px) {
+	body {
+		font-family: '宋体' !important;
+		font-size: 24px !important;
+	}
+}
